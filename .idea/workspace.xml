@@ -4,9 +4,11 @@
     <list default="true" id="35da8d96-b420-4937-b17a-0dac3e37451f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/my_function.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/6851e2039de1.pid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ib_buffer_pool" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ib_logfile0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/ibtmp1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +51,7 @@
           <entry key="conf" value="2" />
           <entry key="function" value="1" />
           <entry key="html" value="1" />
-          <entry key="php" value="8" />
+          <entry key="php" value="9" />
           <entry key="report1536571905txt" value="1" />
           <entry key="report1536572688txt" value="1" />
           <entry key="report1536572909txt" value="1" />
@@ -224,7 +226,7 @@
         <counts>
           <entry key="Dockerfile" value="2" />
           <entry key="HTML" value="1" />
-          <entry key="PHP" value="9" />
+          <entry key="PHP" value="10" />
           <entry key="PLAIN_TEXT" value="181" />
           <entry key="SmartyConfig" value="2" />
           <entry key="YAML" value="4" />
@@ -236,7 +238,7 @@
           <entry key="cnf" value="59" />
           <entry key="conf" value="83" />
           <entry key="html" value="18" />
-          <entry key="php" value="3055" />
+          <entry key="php" value="3056" />
           <entry key="report1536662698txt" value="8" />
           <entry key="yml" value="246" />
         </counts>
@@ -245,7 +247,7 @@
         <counts>
           <entry key="Dockerfile" value="54" />
           <entry key="HTML" value="18" />
-          <entry key="PHP" value="3055" />
+          <entry key="PHP" value="3056" />
           <entry key="PLAIN_TEXT" value="67" />
           <entry key="SmartyConfig" value="83" />
           <entry key="YAML" value="246" />
@@ -269,8 +271,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/my_function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+            <state relative-caret-position="855">
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -411,12 +422,12 @@
       <workItem from="1535977772127" duration="5877000" />
       <workItem from="1536041598888" duration="49000" />
       <workItem from="1536042592559" duration="8755000" />
-      <workItem from="1536559082505" duration="38497000" />
+      <workItem from="1536559082505" duration="39461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57684000" />
+    <option name="totallyTimeSpent" value="58648000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,9 +440,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -444,7 +454,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32871014" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32871014" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32871014" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32871014" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -571,13 +581,6 @@
     <entry file="file://$PROJECT_DIR$/src/report1536662954txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="112" column="1" lean-forward="true" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/report1536663862txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -653,10 +656,17 @@
     <entry file="file://$PROJECT_DIR$/src/report1536667240txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/my_function.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
+        <state relative-caret-position="855">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
         </state>
       </provider>
     </entry>
