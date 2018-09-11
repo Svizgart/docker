@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35da8d96-b420-4937-b17a-0dac3e37451f" name="Default Changelist" comment="" />
+    <list default="true" id="35da8d96-b420-4937-b17a-0dac3e37451f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/my_function.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +33,13 @@
     <session id="155487247">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,35 +47,206 @@
           <entry key="Dockerfile" value="2" />
           <entry key="cnf" value="1" />
           <entry key="conf" value="2" />
+          <entry key="function" value="1" />
           <entry key="html" value="1" />
-          <entry key="yml" value="1" />
+          <entry key="php" value="8" />
+          <entry key="report1536571905txt" value="1" />
+          <entry key="report1536572688txt" value="1" />
+          <entry key="report1536572909txt" value="1" />
+          <entry key="report1536572950txt" value="1" />
+          <entry key="report1536573024txt" value="1" />
+          <entry key="report1536573076txt" value="1" />
+          <entry key="report1536573401txt" value="1" />
+          <entry key="report1536573419txt" value="1" />
+          <entry key="report1536573457txt" value="1" />
+          <entry key="report1536574264txt" value="1" />
+          <entry key="report1536574292txt" value="1" />
+          <entry key="report1536574919txt" value="1" />
+          <entry key="report1536575096txt" value="1" />
+          <entry key="report1536575135txt" value="1" />
+          <entry key="report1536575836txt" value="1" />
+          <entry key="report1536575908txt" value="1" />
+          <entry key="report1536576066txt" value="1" />
+          <entry key="report1536576101txt" value="1" />
+          <entry key="report1536576177txt" value="1" />
+          <entry key="report1536576202txt" value="1" />
+          <entry key="report1536576234txt" value="1" />
+          <entry key="report1536576296txt" value="1" />
+          <entry key="report1536576311txt" value="1" />
+          <entry key="report1536576312txt" value="1" />
+          <entry key="report1536576453txt" value="1" />
+          <entry key="report1536577085txt" value="1" />
+          <entry key="report1536579223txt" value="1" />
+          <entry key="report1536579241txt" value="1" />
+          <entry key="report1536579578txt" value="1" />
+          <entry key="report1536579652txt" value="1" />
+          <entry key="report1536579796txt" value="1" />
+          <entry key="report1536579861txt" value="1" />
+          <entry key="report1536579964txt" value="1" />
+          <entry key="report1536580049txt" value="1" />
+          <entry key="report1536580134txt" value="1" />
+          <entry key="report1536580165txt" value="1" />
+          <entry key="report1536580504txt" value="1" />
+          <entry key="report1536581644txt" value="1" />
+          <entry key="report1536581800txt" value="1" />
+          <entry key="report1536583363txt" value="1" />
+          <entry key="report1536583402txt" value="1" />
+          <entry key="report1536583530txt" value="1" />
+          <entry key="report1536583592txt" value="1" />
+          <entry key="report1536583938txt" value="1" />
+          <entry key="report1536584077txt" value="1" />
+          <entry key="report1536584308txt" value="1" />
+          <entry key="report1536584356txt" value="1" />
+          <entry key="report1536584499txt" value="1" />
+          <entry key="report1536584561txt" value="1" />
+          <entry key="report1536584629txt" value="1" />
+          <entry key="report1536584685txt" value="1" />
+          <entry key="report1536584725txt" value="1" />
+          <entry key="report1536584916txt" value="1" />
+          <entry key="report1536585138txt" value="2" />
+          <entry key="report1536585204txt" value="1" />
+          <entry key="report1536585318txt" value="1" />
+          <entry key="report1536585384txt" value="1" />
+          <entry key="report1536585495txt" value="1" />
+          <entry key="report1536585547txt" value="1" />
+          <entry key="report1536585664txt" value="1" />
+          <entry key="report1536585696txt" value="1" />
+          <entry key="report1536585969txt" value="1" />
+          <entry key="report1536586094txt" value="1" />
+          <entry key="report1536586220txt" value="1" />
+          <entry key="report1536586260txt" value="1" />
+          <entry key="report1536586340txt" value="1" />
+          <entry key="report1536586398txt" value="1" />
+          <entry key="report1536586780txt" value="1" />
+          <entry key="report1536587069txt" value="2" />
+          <entry key="report1536587827txt" value="1" />
+          <entry key="report1536587945txt" value="1" />
+          <entry key="report1536587984txt" value="2" />
+          <entry key="report1536588338txt" value="1" />
+          <entry key="report1536588448txt" value="1" />
+          <entry key="report1536588787txt" value="1" />
+          <entry key="report1536588835txt" value="1" />
+          <entry key="report1536588935txt" value="1" />
+          <entry key="report1536588957txt" value="1" />
+          <entry key="report1536589010txt" value="2" />
+          <entry key="report1536589105txt" value="1" />
+          <entry key="report1536589159txt" value="1" />
+          <entry key="report1536589173txt" value="1" />
+          <entry key="report1536589218txt" value="1" />
+          <entry key="report1536589288txt" value="1" />
+          <entry key="report1536589347txt" value="1" />
+          <entry key="report1536589362txt" value="1" />
+          <entry key="report1536589389txt" value="1" />
+          <entry key="report1536589400txt" value="1" />
+          <entry key="report1536589461txt" value="1" />
+          <entry key="report1536590781txt" value="1" />
+          <entry key="report1536590795txt" value="1" />
+          <entry key="report1536590804txt" value="1" />
+          <entry key="report1536590896txt" value="1" />
+          <entry key="report1536591698txt" value="1" />
+          <entry key="report1536591791txt" value="1" />
+          <entry key="report1536591834txt" value="1" />
+          <entry key="report1536591969txt" value="1" />
+          <entry key="report1536592000txt" value="1" />
+          <entry key="report1536592318txt" value="1" />
+          <entry key="report1536645613txt" value="1" />
+          <entry key="report1536645836txt" value="1" />
+          <entry key="report1536646414txt" value="1" />
+          <entry key="report1536649202txt" value="1" />
+          <entry key="report1536649230txt" value="1" />
+          <entry key="report1536651092txt" value="1" />
+          <entry key="report1536651187txt" value="1" />
+          <entry key="report1536652347txt" value="1" />
+          <entry key="report1536652363txt" value="1" />
+          <entry key="report1536652434txt" value="1" />
+          <entry key="report1536652520txt" value="1" />
+          <entry key="report1536652554txt" value="1" />
+          <entry key="report1536652690txt" value="1" />
+          <entry key="report1536653531txt" value="1" />
+          <entry key="report1536653749txt" value="1" />
+          <entry key="report1536654099txt" value="1" />
+          <entry key="report1536654874txt" value="1" />
+          <entry key="report1536654957txt" value="1" />
+          <entry key="report1536655088txt" value="1" />
+          <entry key="report1536655132txt" value="1" />
+          <entry key="report1536655181txt" value="1" />
+          <entry key="report1536655438txt" value="2" />
+          <entry key="report1536655748txt" value="2" />
+          <entry key="report1536655826txt" value="2" />
+          <entry key="report1536655920txt" value="2" />
+          <entry key="report1536656032txt" value="2" />
+          <entry key="report1536656253txt" value="1" />
+          <entry key="report1536656292txt" value="2" />
+          <entry key="report1536656369txt" value="2" />
+          <entry key="report1536656391txt" value="1" />
+          <entry key="report1536656427txt" value="1" />
+          <entry key="report1536659114txt" value="1" />
+          <entry key="report1536659140txt" value="1" />
+          <entry key="report1536659152txt" value="1" />
+          <entry key="report1536659219txt" value="1" />
+          <entry key="report1536659239txt" value="1" />
+          <entry key="report1536659258txt" value="1" />
+          <entry key="report1536659701txt" value="1" />
+          <entry key="report1536660005txt" value="1" />
+          <entry key="report1536660552txt" value="1" />
+          <entry key="report1536661112txt" value="1" />
+          <entry key="report1536661214txt" value="1" />
+          <entry key="report1536661360txt" value="1" />
+          <entry key="report1536661634txt" value="1" />
+          <entry key="report1536662698txt" value="2" />
+          <entry key="report1536662894txt" value="1" />
+          <entry key="report1536662954txt" value="1" />
+          <entry key="report1536663862txt" value="1" />
+          <entry key="report1536663909txt" value="1" />
+          <entry key="report1536663940txt" value="1" />
+          <entry key="report1536665064txt" value="1" />
+          <entry key="report1536665287txt" value="1" />
+          <entry key="report1536665320txt" value="1" />
+          <entry key="report1536665448txt" value="1" />
+          <entry key="report1536665565txt" value="1" />
+          <entry key="report1536665598txt" value="1" />
+          <entry key="report1536665714txt" value="1" />
+          <entry key="report1536665768txt" value="1" />
+          <entry key="report1536665838txt" value="1" />
+          <entry key="report1536665876txt" value="1" />
+          <entry key="report1536666020txt" value="1" />
+          <entry key="report1536666084txt" value="1" />
+          <entry key="report1536666114txt" value="1" />
+          <entry key="report1536666299txt" value="1" />
+          <entry key="report1536666935txt" value="1" />
+          <entry key="report1536667126txt" value="1" />
+          <entry key="report1536667240txt" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Dockerfile" value="2" />
           <entry key="HTML" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PHP" value="9" />
+          <entry key="PLAIN_TEXT" value="181" />
           <entry key="SmartyConfig" value="2" />
-          <entry key="YAML" value="1" />
+          <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Dockerfile" value="53" />
+          <entry key="Dockerfile" value="54" />
           <entry key="cnf" value="59" />
           <entry key="conf" value="83" />
           <entry key="html" value="18" />
-          <entry key="php" value="337" />
+          <entry key="php" value="3055" />
+          <entry key="report1536662698txt" value="8" />
           <entry key="yml" value="246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dockerfile" value="53" />
+          <entry key="Dockerfile" value="54" />
           <entry key="HTML" value="18" />
-          <entry key="PHP" value="337" />
-          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="PHP" value="3055" />
+          <entry key="PLAIN_TEXT" value="67" />
           <entry key="SmartyConfig" value="83" />
           <entry key="YAML" value="246" />
         </counts>
@@ -81,65 +261,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my.cnf">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/my_function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx/nginx.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nginx/test.local.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="455">
+              <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -156,7 +287,21 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>bind</find>
+      <find>buf</find>
+      <find>bufferingArrayToString2</find>
+      <find>§</find>
+      <find>vd</find>
+      <find>bufferingStringToArray</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>bufferingStringToArray</replace>
+      <replace>typing</replace>
+      <replace>bufferingArrayToString</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,11 +310,16 @@
         <option value="$PROJECT_DIR$/my.cnf" />
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/php/Dockerfile" />
-        <option value="$PROJECT_DIR$/src/index.php" />
-        <option value="$PROJECT_DIR$/nginx/test.local.conf" />
-        <option value="$PROJECT_DIR$/nginx/Dockerfile" />
         <option value="$PROJECT_DIR$/nginx/nginx.conf" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/nginx/test.local.conf" />
+        <option value="$PROJECT_DIR$/nginx/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/report1536589461txt" />
+        <option value="$PROJECT_DIR$/src/function.php" />
+        <option value="$PROJECT_DIR$/src/report1536653749txt" />
+        <option value="$PROJECT_DIR$/src/index.php" />
+        <option value="$PROJECT_DIR$/src/report1536662698txt" />
+        <option value="$PROJECT_DIR$/src/my_function.php" />
       </list>
     </option>
   </component>
@@ -185,14 +335,14 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="height" value="813" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,7 +358,7 @@
             <path>
               <item name="docker" type="b2602c69:ProjectViewProjectNode" />
               <item name="docker" type="462c0819:PsiDirectoryNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="docker" type="b2602c69:ProjectViewProjectNode" />
@@ -218,6 +368,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +376,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -257,32 +408,44 @@
       <updated>1535969405703</updated>
       <workItem from="1535969409581" duration="396000" />
       <workItem from="1535971123775" duration="4110000" />
-      <workItem from="1535977772127" duration="4744000" />
+      <workItem from="1535977772127" duration="5877000" />
+      <workItem from="1536041598888" duration="49000" />
+      <workItem from="1536042592559" duration="8755000" />
+      <workItem from="1536559082505" duration="38497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9250000" />
+    <option name="totallyTimeSpent" value="57684000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286908" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32732317" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32871014" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32871014" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32871014" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -296,52 +459,204 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/report1536655132txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536655181txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536656253txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536656427txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536659152txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536659219txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536659258txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536659239txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536659140txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536659114txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536656391txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536656369txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536656292txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536656032txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536655920txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536655826txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536655748txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536655438txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536660005txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536660552txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="5" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536661112txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536661214txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536661360txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536661634txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536659701txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536662698txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="82" column="58" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536662894txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536662954txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="1680">
+          <caret line="112" column="1" lean-forward="true" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my.cnf">
+    <entry file="file://$PROJECT_DIR$/src/report1536663862txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536663909txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536663940txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="-5424" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536665064txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="133" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="140" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/src/report1536665287txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536665448txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="930">
+          <caret line="62" column="50" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/src/report1536665565txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536665598txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536665714txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
+        <state relative-caret-position="-48" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/test.local.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/report1536665320txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/nginx/nginx.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/report1536665768txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536665838txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536666084txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536666020txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536665876txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536666114txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536666299txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536666935txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536667126txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/report1536667240txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my_function.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="455">
+          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
         </state>
       </provider>
     </entry>
